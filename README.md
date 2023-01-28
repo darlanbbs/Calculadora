@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-# A calculadora é um projeto para aprimorar técnicas de javascript 
+ A calculadora é um projeto para aprimorar técnicas de javascript 
 
 # Layout
 
